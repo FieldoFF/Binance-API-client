@@ -58,7 +58,7 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(665, 20);
             this.textBox2.TabIndex = 1;
-            this.textBox2.Text = "OhCaCw33qD1tLROeWUfs33pFArVCxRcpv6uGxYmww6X9A41RFWLrT2cOausc8HSt";
+            this.textBox2.Text = "Your API";
             // 
             // label1
             // 
@@ -120,7 +120,7 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(665, 20);
             this.textBox3.TabIndex = 9;
-            this.textBox3.Text = "B13jzs26V8fBCEKM2iwL0J4an2j8htMOoiS808mDzR7jLAlwnSOqfhONKkWkV0Gw";
+            this.textBox3.Text = "Your SECRET";
             // 
             // textBox4
             // 
@@ -136,7 +136,7 @@
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(665, 20);
             this.textBox5.TabIndex = 11;
-            this.textBox5.Text = "/sapi/v1/accountSnapshot";
+            this.textBox5.Text = "Your equest URL";
             // 
             // textBox6
             // 
@@ -144,7 +144,8 @@
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(665, 20);
             this.textBox6.TabIndex = 12;
-            this.textBox6.Text = "type=SPOT&recvWindow=5000&timestamp=";
+            this.textBox6.Text = "Parameters of your request (current timestamp value will be added automatically i" +
+    "n the end of string)";
             // 
             // Button1
             // 
