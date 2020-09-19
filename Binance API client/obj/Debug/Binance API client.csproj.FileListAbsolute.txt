@@ -1,0 +1,12 @@
+C:\Users\KIRILL\source\repos\Binance API client\Binance API client\bin\Debug\Binance API client.exe.config
+C:\Users\KIRILL\source\repos\Binance API client\Binance API client\bin\Debug\Binance API client.exe
+C:\Users\KIRILL\source\repos\Binance API client\Binance API client\bin\Debug\Binance API client.pdb
+C:\Users\KIRILL\source\repos\Binance API client\Binance API client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KIRILL\source\repos\Binance API client\Binance API client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KIRILL\source\repos\Binance API client\Binance API client\obj\Debug\Binance API client.csprojAssemblyReference.cache
+C:\Users\KIRILL\source\repos\Binance API client\Binance API client\obj\Debug\Binance_API_client.Form1.resources
+C:\Users\KIRILL\source\repos\Binance API client\Binance API client\obj\Debug\Binance_API_client.Properties.Resources.resources
+C:\Users\KIRILL\source\repos\Binance API client\Binance API client\obj\Debug\Binance API client.csproj.GenerateResource.cache
+C:\Users\KIRILL\source\repos\Binance API client\Binance API client\obj\Debug\Binance API client.csproj.CopyComplete
+C:\Users\KIRILL\source\repos\Binance API client\Binance API client\obj\Debug\Binance API client.exe
+C:\Users\KIRILL\source\repos\Binance API client\Binance API client\obj\Debug\Binance API client.pdb
